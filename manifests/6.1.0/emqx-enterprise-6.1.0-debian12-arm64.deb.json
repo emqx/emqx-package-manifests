@@ -1,0 +1,9 @@
+{
+  "filename": "emqx-enterprise-6.1.0-debian12-arm64.deb",
+  "version": "6.1.0",
+  "git_commit": "7ed38516e9acc30de06fa32b8d2e659520d7d85c",
+  "git_tag": "6.1.0",
+  "git_tag_signed": false,
+  "sha256": "6e9c025bc45715ce17b5ecf5a9c15205bad8c46178b4f7f383231637521e190a",
+  "size_bytes": 76178788
+}

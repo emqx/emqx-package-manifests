@@ -1,0 +1,9 @@
+{
+  "filename": "emqx-enterprise-6.2.3-el9-arm64.rpm",
+  "version": "6.2.3",
+  "git_commit": "7db5ddb03f72b07da3ae29bf2265534fb6c23864",
+  "git_tag": "6.2.3",
+  "git_tag_signed": false,
+  "sha256": "d805ac7fb3cf33d59bcc60ac2274df2828df72ef3ad4519ea697a91ca1daa24e",
+  "size_bytes": 82640259
+}

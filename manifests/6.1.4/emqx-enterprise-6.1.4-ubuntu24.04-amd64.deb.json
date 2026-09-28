@@ -1,0 +1,9 @@
+{
+  "filename": "emqx-enterprise-6.1.4-ubuntu24.04-amd64.deb",
+  "version": "6.1.4",
+  "git_commit": "e1da66f561121df0dc4ee1862a9fb5a6fa42c8a0",
+  "git_tag": "6.1.4",
+  "git_tag_signed": false,
+  "sha256": "0a28070fd2c4ee84fcc001b328975c805744f485da7930cf123b0d1bfed56d24",
+  "size_bytes": 81753434
+}

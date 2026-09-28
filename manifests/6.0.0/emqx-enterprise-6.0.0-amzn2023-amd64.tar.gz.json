@@ -1,0 +1,9 @@
+{
+  "filename": "emqx-enterprise-6.0.0-amzn2023-amd64.tar.gz",
+  "version": "6.0.0",
+  "git_commit": "b15e6dc7193207a0709f0caa79f9c69cbadbbe8c",
+  "git_tag": "6.0.0",
+  "git_tag_signed": false,
+  "sha256": "370ed3e28f802a38c8684bb2c8b9ba46b895c3f1f04dae0530f2e7bd78e409a4",
+  "size_bytes": 99554027
+}

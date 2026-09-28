@@ -1,0 +1,9 @@
+{
+  "filename": "emqx-enterprise-6.1.3-el8-arm64.tar.gz",
+  "version": "6.1.3",
+  "git_commit": "e25ca8ee13b2cfde4662ff66d3b6e25563479222",
+  "git_tag": "6.1.3",
+  "git_tag_signed": false,
+  "sha256": "737d36e1bc9b53f274d68ca64eddc26f27fe5b6ffa75b00c0fd7610a186731bf",
+  "size_bytes": 111732209
+}

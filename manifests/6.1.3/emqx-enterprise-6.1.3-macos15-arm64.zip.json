@@ -1,0 +1,9 @@
+{
+  "filename": "emqx-enterprise-6.1.3-macos15-arm64.zip",
+  "version": "6.1.3",
+  "git_commit": "e25ca8ee13b2cfde4662ff66d3b6e25563479222",
+  "git_tag": "6.1.3",
+  "git_tag_signed": false,
+  "sha256": "e9634360acf173fd94f0105d318f31afd41a3db4b4107e7eb484c9b72f8b99d3",
+  "size_bytes": 90391985
+}

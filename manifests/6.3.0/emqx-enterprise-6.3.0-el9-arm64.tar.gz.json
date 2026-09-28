@@ -1,0 +1,9 @@
+{
+  "filename": "emqx-enterprise-6.3.0-el9-arm64.tar.gz",
+  "version": "6.3.0",
+  "git_commit": "021c5ef13bf8c767058626ad9b760052c273736f",
+  "git_tag": "6.3.0",
+  "git_tag_signed": false,
+  "sha256": "80a2a6dbc65cd9a15639646e883565c6c40d471ceadaebda376ae281e815eb19",
+  "size_bytes": 114645349
+}

@@ -1,0 +1,9 @@
+{
+  "filename": "emqx-enterprise-6.1.1-amzn2023-amd64.rpm",
+  "version": "6.1.1",
+  "git_commit": "2e91006f85819b18ddd9b45c243b9568ff657797",
+  "git_tag": "6.1.1",
+  "git_tag_signed": false,
+  "sha256": "b74a1ca77f77102e63a2080a4cc236d830363ce15ce419caf1ab86a2c5ea211b",
+  "size_bytes": 81336228
+}

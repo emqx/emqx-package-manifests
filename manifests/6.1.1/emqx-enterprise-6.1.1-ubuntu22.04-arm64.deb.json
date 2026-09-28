@@ -1,0 +1,9 @@
+{
+  "filename": "emqx-enterprise-6.1.1-ubuntu22.04-arm64.deb",
+  "version": "6.1.1",
+  "git_commit": "2e91006f85819b18ddd9b45c243b9568ff657797",
+  "git_tag": "6.1.1",
+  "git_tag_signed": false,
+  "sha256": "57b8aee6f039a34a93fae37209c98d0021be6c4966c54b218b7970f857d15cb6",
+  "size_bytes": 79695132
+}

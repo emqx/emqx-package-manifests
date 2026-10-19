@@ -89,6 +89,22 @@ jq -r '"commit: " + .git_commit, "tag: " + (.git_tag // "none")' "$REC"
 A withdrawn package is recorded by adding a new record, not by deleting or editing the original
 one. The original record stays, so the history of what was published remains complete.
 
+## Re-published packages
+
+When a version is published again from a different source commit, for example after its
+release tag is moved to include a late fix, the package file names stay the same but their
+contents change. The original records stay. The new build is recorded under a subdirectory
+named after the short source commit:
+
+```
+manifests/<version>/<git_commit_short>/<filename>.json
+```
+
+For example, `manifests/6.3.2/6e4ee3d080/emqx-enterprise-6.3.2-ubuntu22.04-amd64.tar.gz.json`
+records the package rebuilt on 2026-10-19 after the `6.3.2` tag moved from `07c1a68212` to
+`6e4ee3d080`. A package that matches a record in the subdirectory is the current publication.
+A package that matches the original record is the earlier build.
+
 ## Repository protections
 
 - Force pushes and branch deletion are rejected.

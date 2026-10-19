@@ -1,0 +1,9 @@
+{
+  "filename": "emqx-enterprise-6.3.2-el7-amd64.tar.gz",
+  "version": "6.3.2",
+  "git_commit": "07c1a68212c033ac5ff5875571c069c6de3d98f0",
+  "git_tag": "6.3.2",
+  "git_tag_signed": false,
+  "sha256": "855cd7af3c2c99405087047b0f02fa95edafa0c33d4d2f741631e41dbe764501",
+  "size_bytes": 116052668
+}

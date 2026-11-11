@@ -1,0 +1,9 @@
+{
+  "filename": "emqx-enterprise-6.3.3-macos26-arm64.zip",
+  "version": "6.3.3",
+  "git_commit": "1357825c7bdde15a8e29800ca1f68027b2502d7f",
+  "git_tag": "6.3.3",
+  "git_tag_signed": true,
+  "sha256": "b4a1bce7027edad4fbdf6c1cc3df591c448f86aec1cbb4dc9c5afcac76df4774",
+  "size_bytes": 95450620
+}

@@ -1,0 +1,9 @@
+{
+  "filename": "emqx-enterprise-6.3.3-ubuntu24.04-arm64.deb",
+  "version": "6.3.3",
+  "git_commit": "1357825c7bdde15a8e29800ca1f68027b2502d7f",
+  "git_tag": "6.3.3",
+  "git_tag_signed": true,
+  "sha256": "2648805e33fc16bffd4c8c6ab61ab9a0df7c560162fd91e352ce8f4d720727df",
+  "size_bytes": 88522658
+}

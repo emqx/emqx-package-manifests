@@ -1,0 +1,9 @@
+{
+  "filename": "emqx-enterprise-5.3.0-amzn2-arm64.rpm",
+  "version": "5.3.0",
+  "git_commit": "7b3ce3cbc740af4707f5bef5aee499f1e9842ac9",
+  "git_tag": "e5.3.0",
+  "git_tag_signed": false,
+  "sha256": "3490152ad0e30dc6ab85eb1e0d6f5bce27f511b2cb0d5dae8eecca4c70c94d52",
+  "size_bytes": 57713724
+}

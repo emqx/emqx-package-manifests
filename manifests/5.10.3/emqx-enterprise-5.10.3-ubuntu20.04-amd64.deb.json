@@ -1,0 +1,9 @@
+{
+  "filename": "emqx-enterprise-5.10.3-ubuntu20.04-amd64.deb",
+  "version": "5.10.3",
+  "git_commit": "491815987bde72a410846dd81f38d2ec4ba02df0",
+  "git_tag": "e5.10.3",
+  "git_tag_signed": false,
+  "sha256": "a0b25bd2e406bbcbbe774692148c8148f84d1859ffea161267547ca8b36e85ad",
+  "size_bytes": 62324960
+}

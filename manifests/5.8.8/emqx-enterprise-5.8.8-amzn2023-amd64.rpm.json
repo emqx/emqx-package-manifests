@@ -1,0 +1,9 @@
+{
+  "filename": "emqx-enterprise-5.8.8-amzn2023-amd64.rpm",
+  "version": "5.8.8",
+  "git_commit": "e1bbd8d45f5eb512226ed2c1b3052826572ac124",
+  "git_tag": "e5.8.8",
+  "git_tag_signed": false,
+  "sha256": "4e6cf2eac8b0f5547a8f7bedf021919fd81466bcf6de648fc825e61f5ce1cf54",
+  "size_bytes": 58859398
+}

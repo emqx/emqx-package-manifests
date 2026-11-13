@@ -1,0 +1,9 @@
+{
+  "filename": "emqx-enterprise-5.5.0-el7-amd64.rpm",
+  "version": "5.5.0",
+  "git_commit": "3ad71f75e628e7ad2d47b06b878b1a60ebbf7196",
+  "git_tag": "e5.5.0",
+  "git_tag_signed": false,
+  "sha256": "3216a8b04e5ccff79ee69b7c761d3bbb7118aa305bc270fca94d890153126a33",
+  "size_bytes": 72500160
+}

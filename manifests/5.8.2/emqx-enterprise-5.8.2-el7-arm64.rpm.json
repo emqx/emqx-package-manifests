@@ -1,0 +1,9 @@
+{
+  "filename": "emqx-enterprise-5.8.2-el7-arm64.rpm",
+  "version": "5.8.2",
+  "git_commit": "b29ea03a061ea4cce9476052fb8d03af0b86f932",
+  "git_tag": "e5.8.2",
+  "git_tag_signed": false,
+  "sha256": "383db7050895125ead1efd11241595230eeb12a171e344dc72b3231af11f1aa4",
+  "size_bytes": 71332224
+}

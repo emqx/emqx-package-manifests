@@ -1,0 +1,9 @@
+{
+  "filename": "emqx-enterprise-5.3.1-debian10-amd64.deb",
+  "version": "5.3.1",
+  "git_commit": "a9cf8fe78c1e8d449bdfd6b3adf6b6826456cd69",
+  "git_tag": "e5.3.1",
+  "git_tag_signed": false,
+  "sha256": "7c6837afcd8cfc93a322052a049739e750f7928a104026d2ca537c1400212a59",
+  "size_bytes": 52156592
+}

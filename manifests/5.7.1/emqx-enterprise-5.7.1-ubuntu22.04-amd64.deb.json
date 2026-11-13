@@ -1,0 +1,9 @@
+{
+  "filename": "emqx-enterprise-5.7.1-ubuntu22.04-amd64.deb",
+  "version": "5.7.1",
+  "git_commit": "e7ca140384e851b906d79383fe153247aa072635",
+  "git_tag": "e5.7.1",
+  "git_tag_signed": false,
+  "sha256": "17a79dac0bfa2ac5120185146a3c4a20f327c5c53775b609346d83e997608338",
+  "size_bytes": 58991936
+}

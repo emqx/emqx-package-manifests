@@ -1,0 +1,9 @@
+{
+  "filename": "emqx-enterprise-5.6.0-elixir-ubuntu22.04-amd64.deb",
+  "version": "5.6.0",
+  "git_commit": "ea917d6b2ba6ae1236de559b64ac185bb3c50392",
+  "git_tag": "e5.6.0",
+  "git_tag_signed": false,
+  "sha256": "462e7947aece8e2fdf3cc987b65d796c0668304088c5845471c3691d03f28387",
+  "size_bytes": 60855174
+}

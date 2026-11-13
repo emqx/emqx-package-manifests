@@ -1,0 +1,9 @@
+{
+  "filename": "emqx-enterprise-5.8.8-debian12-amd64.deb",
+  "version": "5.8.8",
+  "git_commit": "e1bbd8d45f5eb512226ed2c1b3052826572ac124",
+  "git_tag": "e5.8.8",
+  "git_tag_signed": false,
+  "sha256": "7d21925ec05dde16ecd71fe6c8369ab130eff1161f419252cde63e260f3a4de8",
+  "size_bytes": 56314192
+}

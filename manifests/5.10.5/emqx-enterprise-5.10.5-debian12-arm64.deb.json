@@ -1,0 +1,9 @@
+{
+  "filename": "emqx-enterprise-5.10.5-debian12-arm64.deb",
+  "version": "5.10.5",
+  "git_commit": "e063052edbe2420357e63f4da31472cb2508419c",
+  "git_tag": "e5.10.5",
+  "git_tag_signed": false,
+  "sha256": "505b0d55919ecda0474e043246d319bd80e5647059563b3d858aad2bdb326eb5",
+  "size_bytes": 62629592
+}

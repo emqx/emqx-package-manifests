@@ -1,0 +1,9 @@
+{
+  "filename": "emqx-enterprise-5.0.2-ubuntu18.04-arm64.deb",
+  "version": "5.0.2",
+  "git_commit": "04308d7a1eb0cd9412eec9e6fa5e0ef33300ed1a",
+  "git_tag": "e5.0.2",
+  "git_tag_signed": false,
+  "sha256": "2e6ea615f25d0c8c9d2477a4429d5770d5c84d4176302c4a5e74669bf3e7c58e",
+  "size_bytes": 41832144
+}

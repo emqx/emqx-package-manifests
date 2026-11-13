@@ -1,0 +1,9 @@
+{
+  "filename": "emqx-enterprise-5.7.2-ubuntu20.04-arm64.deb",
+  "version": "5.7.2",
+  "git_commit": "dde6f932fed65db28ee8ea4d58df3b631cd59454",
+  "git_tag": "e5.7.2",
+  "git_tag_signed": false,
+  "sha256": "9686b8e92baea621d5d95063880ae481d27af21903d76913922be1ca1559efab",
+  "size_bytes": 57273104
+}
